@@ -6,7 +6,7 @@ There is also an in-development web-client.
 
 You can build the Nexus client or Nexus server from this repository.
 
-![main screenshot](https://github.com/glaretechnologies/Nexus/assets/30285/38a6db93-e729-4f15-8561-5c848eb5391c)
+![main screenshot](https://github.com/glaretechnologies/substrata/assets/30285/38a6db93-e729-4f15-8561-5c848eb5391c)
 
 
 ## Usage examples
@@ -52,7 +52,7 @@ Nexus uses the Glare engine (https://github.com/glaretechnologies/glare-core), w
 * Terrain and water rendering
 * Particle system for rendering dust, water splashes, smoke etc.
 
-![boat](https://github.com/glaretechnologies/Nexus/assets/30285/0dde612a-ea95-49af-bc64-07f1a7114c7f)
+![boat](https://github.com/glaretechnologies/substrata/assets/30285/0dde612a-ea95-49af-bc64-07f1a7114c7f)
 
 
 ### Networked physics simulation
@@ -62,16 +62,16 @@ What that means is that multiple players can interact with objects in a world, d
 
 Physics-based vehicles: (Image links are to videos on YouTube)
 
-<a href="https://youtu.be/-E3J8kaqolQ"><img src="https://github.com/glaretechnologies/Nexus/assets/30285/18703540-58ae-4e18-bf28-635784cd6c9a" width="600"></a>
+<a href="https://youtu.be/-E3J8kaqolQ"><img src="https://github.com/glaretechnologies/substrata/assets/30285/18703540-58ae-4e18-bf28-635784cd6c9a" width="600"></a>
 
 Networked physics:
 
-<a href="https://youtu.be/_rECxiwVteY"><img src="https://github.com/glaretechnologies/Nexus/assets/30285/37eaacef-0f1b-48af-a820-1dcc9c17466e" width="600"></a>
+<a href="https://youtu.be/_rECxiwVteY"><img src="https://github.com/glaretechnologies/substrata/assets/30285/37eaacef-0f1b-48af-a820-1dcc9c17466e" width="600"></a>
 
 
 Handling lots of interactive objects:
 
-<a href="https://youtu.be/CzGz6voUE_8?t=8"><img src="https://github.com/glaretechnologies/Nexus/assets/30285/6956d5a7-33f4-4c79-947c-951a2fe3cb18" width="600"></a>
+<a href="https://youtu.be/CzGz6voUE_8?t=8"><img src="https://github.com/glaretechnologies/substrata/assets/30285/6956d5a7-33f4-4c79-947c-951a2fe3cb18" width="600"></a>
 
 
 ### Spatial Audio and Voice Chat
@@ -83,10 +83,10 @@ Nexus has built-in spatial audio and voice chat, without using any third-party s
 
 The Nexus client has controls for creating and editing objects, as well as for editing voxels
 
-<img src="https://github.com/glaretechnologies/Nexus/assets/30285/1680739d-b7ae-4e8f-9ba8-48769643e27b" width="600">
+<img src="https://github.com/glaretechnologies/substrata/assets/30285/1680739d-b7ae-4e8f-9ba8-48769643e27b" width="600">
 
 
-<img src="https://github.com/glaretechnologies/Nexus/assets/30285/3e3fb2f5-de3a-4132-9b86-b275b89c5dbd" width="600">
+<img src="https://github.com/glaretechnologies/substrata/assets/30285/3e3fb2f5-de3a-4132-9b86-b275b89c5dbd" width="600">
 
 You can add objects to the world from your local machine, and they will be automatically uploaded to the server and be visible to other users.
 
