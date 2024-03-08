@@ -92,7 +92,7 @@ You can add objects to the world from your local machine, and they will be autom
 
 ## Get help
 
-Chat about NGT Studio on the NGT Studio discord here: https://discord.gg/3Ds9cxyEnZ
+Chat about NGT Studio on the NGT Studio discord here: https://discord.com/invite/ngtstudio.
 
 Feel free to drop a message on the discord if you are having trouble building NGT Studio, or have any questions about it.
 
