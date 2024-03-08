@@ -25,7 +25,7 @@ Because NGT Studio is open source, you can build and run your own world for stud
 
 We welcome contributions from people!
 
-Chat about NGT Studio on the NGT Studio discord here: https://discord.gg/3Ds9cxyEnZ
+Chat about NGT Studio on the NGT Studio discord here: https://discord.gg/invite/ngtstudio
 
 Feel free to drop a message on the discord if you are having trouble building NGT Studio, or have any questions about it.
 
